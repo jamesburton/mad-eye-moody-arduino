@@ -1,6 +1,12 @@
 # mad-eye-moody-arduino
 A 3d printed and servo controlled Mad Eye Moody prop 
 
+## Video
+https://github.com/user-attachments/assets/9636427b-886f-4686-b2c2-2b92b0d8f3cc
+
+## Image(s)
+![AssembledAndWired](https://github.com/user-attachments/assets/b8fd2519-17dc-4079-a469-7a25226802a5)
+
 ## 3D Printed Files (in 3d-models)
 I have included both the FreeCAD .FCStd files and the .3mf files for most files, which are as follows:
 * Eye Mount - This is the plain outer shell, which can be adorned with additional screws to task by simply gluing on or by cutting or melting holes for each as needed.
